@@ -333,7 +333,7 @@ export default function ContactPage() {
               <div className="overflow-hidden rounded-lg bg-secondary-foreground/5">
                 <div className="aspect-video w-full bg-secondary-foreground/10 flex items-center justify-center">
                   <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d224345.83923192776!2d77.06889754725782!3d28.52758200617607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd5b347eb62d%3A0x52c2b7494e204dce!2sNew%20Delhi%2C%20Delhi%2C%20India!5e0!3m2!1sen!2sus!4v1706000000000!5m2!1sen!2sus"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3618.676855645615!2d67.12781031127192!3d24.909001843220764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb339c83dbd998f%3A0x547ebb60a4cd7413!2sBait%20ul%20Hina%20Block%20A!5e0!3m2!1sen!2s!4v1770331051910!5m2!1sen!2s"
                     width="100%"
                     height="100%"
                     style={{ border: 0, minHeight: "300px" }}
