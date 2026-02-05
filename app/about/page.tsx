@@ -251,7 +251,7 @@ export default function AboutPage() {
                   I personally oversee our quality assurance framework
                   because I believe that the leader&apos;s involvement sets the
                   standard for the entire organization. When you choose
-                  Apex Infra Group, you choose a partner who stakes their
+                  DANISH COMPANY Group, you choose a partner who stakes their
                   reputation on every project.
                 </p>
               </blockquote>
@@ -260,7 +260,7 @@ export default function AboutPage() {
                   Rajesh Kumar Sharma
                 </p>
                 <p className="text-sm text-primary">
-                  Founder & CEO, Apex Infra Group
+                  Founder & CEO, DANISH COMPANY Group
                 </p>
               </div>
             </div>
