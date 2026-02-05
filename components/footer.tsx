@@ -22,7 +22,7 @@ export function Footer() {
               </div>
               <div>
                 <span className="text-lg font-bold tracking-tight text-secondary-foreground">
-                  APEX INFRA
+                  DANISH COMPANY
                 </span>
                 <span className="block text-[10px] uppercase tracking-[0.2em] text-primary">
                   Group
@@ -102,7 +102,7 @@ export function Footer() {
 
         <div className="mt-12 border-t border-secondary-foreground/10 pt-8 text-center">
           <p className="text-xs text-secondary-foreground/40">
-            &copy; {new Date().getFullYear()} Apex Infra Group. All rights
+            &copy; {new Date().getFullYear()} DANISH COMPANY Group. All rights
             reserved. Built with precision.
           </p>
         </div>

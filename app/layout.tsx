@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
 const playfair = Playfair_Display({ subsets: ['latin'], variable: '--font-playfair' })
 
 export const metadata: Metadata = {
-  title: 'Apex Infra Group | Building Tomorrow\'s Infrastructure',
+  title: 'DANISH COMPANY Group | Building Tomorrow\'s Infrastructure',
   description: 'Premier civil engineering and construction company specializing in highways, bridges, schools, hospitals, solar installations, and government infrastructure projects.',
 }
 

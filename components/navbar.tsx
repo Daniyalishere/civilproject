@@ -35,7 +35,7 @@ export function Navbar() {
           </div>
           <div>
             <span className="text-lg font-bold tracking-tight text-secondary-foreground">
-              APEX INFRA
+              DANISH COMPANY
             </span>
             <span className="block text-[10px] uppercase tracking-[0.2em] text-primary">
               Group
