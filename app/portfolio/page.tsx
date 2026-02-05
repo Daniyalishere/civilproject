@@ -208,7 +208,7 @@ export default function PortfolioPage() {
         <div className="mx-auto max-w-7xl px-6">
           <SectionHeader
             label="Why Choose Us"
-            title="The Apex Advantage"
+            title="The Danish Advantage"
             description="Here is why leading government agencies and private enterprises trust us with their most critical infrastructure projects."
             light
           />
